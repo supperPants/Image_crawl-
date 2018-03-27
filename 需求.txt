@@ -1,0 +1,14 @@
+动物	,5000	,sheep	,pig, chook	,duck	,ox	,panda
+体育活动（除足球）	,5000	,Basketball movement ,Basketball sport	,baseball sport	,tennis sport	,Athletics sport	,ping pong sport
+晚霞	,5000	,sunset,	sunrise	,the evening glow	,sunset glow	,morning glow
+夜景	,5000,	night scene	,night,	City at Night,	Night view	,night playground,	Village at night
+日出日落,	5000	,sunset,	sunrise,	the evening glow,sunset glow,	morning glow
+街景	5000	Street View,	streetscape,	Street Scene
+文档	5000	text,	actual ppt,	business card,	e-book,	newspaper article,	book article
+肖像	,5000,	portrait,	Selfie,	mug shot
+足球	,5000,	football sports,	soccer sports
+美食	,5000	,food,	food drink	,chinese food,	coffee drink,	Western-style food,	Spaghetti
+花	,5000,	flower,	flowering shrubs,	flowers in clusters
+逆光	,5000,	backlighting,	backlighting shot,	Against the Light
+首饰特写,	5000,	jewelry	necklace,	ring,	earrings,	Bracelets
+舞台,	5000,	stage	,vocal concert stage,	The party stage
