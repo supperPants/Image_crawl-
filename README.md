@@ -1,1 +1,1 @@
-"# Image_crawl-" 
+基于icrawler第三方库同时爬取google，baidu，bing图片，并对名称进行重写，数据进行分类
